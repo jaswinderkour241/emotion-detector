@@ -2,7 +2,7 @@
 
 Detects one of 6 emotions (sadness, anger, love, surprise, fear, joy) from a sentence of text.
 
-**Live demo:** https://YOUR-APP-LINK.streamlit.app
+**Live demo:** https://emotion-detector-eav8imosvxtavnznmptx9k.streamlit.app
 
 ## Tech
 Python, pandas, scikit-learn, NLTK, Streamlit
