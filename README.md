@@ -31,3 +31,6 @@ python -m streamlit run app.py
 
 
 ![App screenshot](screenshot.png)
+
+## Author 
+Jaswinder kour
